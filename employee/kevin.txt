@@ -1,2 +1,2 @@
 name: adi007
-salary: 19$/h
+salary: 19.5$/h
